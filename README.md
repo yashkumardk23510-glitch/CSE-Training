@@ -4,7 +4,7 @@ today i am going to start my institutional training.
 
 
 Day-1
-#AUDITORIUM
+##AUDITORIUM
 1.Gained practical knowledge of software development and programming concepts.
 2.Worked with programming languages such as C, C++, Java, or Python.
 3.Learned database management using SQL/MySQL.
