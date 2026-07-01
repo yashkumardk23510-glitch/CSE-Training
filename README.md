@@ -1,6 +1,6 @@
 #SUMMER TRAINING 2026
-My name is yash kumar passi
-today i am going to start my institutional training
+My name is yash kumar passi.
+today i am going to start my institutional training.
 
 
 Day-1
