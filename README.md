@@ -65,6 +65,7 @@ The session also covered **PC hardware troubleshooting**, where we learned about
 Finally, we learned about **diagnosing hardware failures** by identifying symptoms of faulty components such as RAM, hard disk drives (HDD/SSD), power supply units (PSU), graphics cards (GPU), and the motherboard. The instructor explained how to recognize hardware failure through system behavior, error messages, unusual sounds, overheating, and diagnostic tools.
 
 Overall, today's session improved our understanding of troubleshooting techniques for networking, booting issues, and hardware failures. These skills are essential for maintaining computer systems and solving common technical problems efficiently.
+
 #DAY 5:
 
 Today, our instructor discussed **career opportunities, startups, and data centers**. We learned about different job roles in the IT industry and the skills required for careers in software development, cloud computing, cybersecurity, networking, and system administration. The instructor also explained the difference between **product-based** and **service-based** companies and discussed the basics of building a startup.
